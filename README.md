@@ -43,7 +43,7 @@ PiE(Profit in Everything) supports X-to-Earn.
 |Exchange Rate inquiry|Partners|MW30P|Item/Point/etc To PlayToken Exchange Rate Inquiry<br>PlayToken To Item/Point/etc Exchange Rate Inquiry<br>(Partner's various benefits to users, etc.)||
 |Exchange|Partners|MW30P|Item/Point/etc To PlayToken Exchange<br>PlayToken To Item/Point/etc Exchange|Async|
 |Passport|Partners|MW30P|Certification services for execution of key APIs||
-|Withdrawal address|Partners|MW30P|Verification and registration of externally available addresses held<br>by users of the Partners (withdrawal address)||
+|Withdrawal address|Partners|MW30P|Verification and registration of externally available addresses held by users of the Partners (withdrawal address)||
 |Withdrawal pre-trade|Partners|MW30P|Withdrawal preliminary transactions||
 |Withdrawal |Partners|MW30P|Withdraw withdrawable tokens(PlayToken) to an external address|Async|
 |Block Notify|MW30P|Partners|Exchange API, Blockchain processing result of Withdrawal API sent<br>(Confirm completed or not)|Async|
