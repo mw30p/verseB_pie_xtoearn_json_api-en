@@ -19,7 +19,7 @@
 <br>
 <br>
 
-#### MW30P X-To-Earn Interface API
+### MW30P X-To-Earn Interface API
 API is classified into Sync type and Async type in consideration of performance. Affiliates apply functions corresponding to each API and support various development languages such as JSON, C/C++, and JAVA.
 
 **※ Affiliation/Interworking Testing and Development Inquiries : testingplanner@cholocb.com**
@@ -27,7 +27,6 @@ API is classified into Sync type and Async type in consideration of performance.
 - JSON API SAMPLE : https://github.com/mw30p/verseB_pie_xtoearn_json_api-en/tree/main/src
 - JAVA API SAMPLE : https://github.com/mw30p/verseB_pie_xtoearn_java_api-en/tree/main/src/main/java/com/mw30p/p2e
 - C/C++ API SAMPLE : https://github.com/mw30p/verseB_pie_xtoearn_cpp_api-en/tree/main/src
-
 
 PiE(Profit in Everything) supports X-to-Earn.
 * Play to Earn (P2E)
@@ -49,16 +48,3 @@ PiE(Profit in Everything) supports X-to-Earn.
 |Withdrawal |Partners|MW30P|Withdraw withdrawable tokens(PlayToken) to an external address|Async|
 |Block Notify|MW30P|Partners|Exchange API, Blockchain processing result of Withdrawal API sent<br>(Confirm completed or not)|Async|
 
-
-
-
-
-| API | From | To | Function | Note |
-|-----|--------|--------|------|------|
-|<sub>Exchange Rate inquiry</sub>|<sub>Partners</sub>|<sub>MW30P</sub>|<sub>Item/Point/etc To PlayToken Exchange Rate Inquiry<br>PlayToken To Item/Point/etc Exchange Rate Inquiry<br>(Partner's various benefits to users, etc.)</sub>|<sub></sub>|
-|<sub>Exchange</sub>|<sub>Partners</sub>|<sub>MW30P</sub>|<sub>Item/Point/etc To PlayToken Exchange<br>PlayToken To Item/Point/etc Exchange</sub>|<sub>Async</sub>|
-|<sub>Passport</sub>|<sub>Partners</sub>|<sub>MW30P</sub>|<sub>Certification services for execution of key APIs</sub>|<sub></sub>|
-|<sub>Withdrawal address</sub>|<sub>Partners</sub>|<sub>MW30P</sub>|<sub>Verification and registration of externally available addresses held<br>by users of the Partners (withdrawal address)</sub>|<sub></sub>|
-|<sub>Withdrawal pre-trade</sub>|<sub>Partners</sub>|<sub>MW30P</sub>|<sub>Withdrawal preliminary transactions</sub>|<sub></sub>|
-|<sub>Withdrawal</sub>|<sub>Partners</sub>|<sub>MW30P</sub>|<sub>Withdraw withdrawable tokens(PlayToken) to an external address</sub>|<sub>Async</sub>|
-|<sub>Block Notify</sub>|<sub>MW30P</sub>|<sub>Partners</sub>|<sub>Exchange API, Blockchain processing result of Withdrawal API sent<br>(Confirm completed or not)</sub>|<sub>Async</sub>|
